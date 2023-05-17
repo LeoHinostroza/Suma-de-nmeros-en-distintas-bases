@@ -1,0 +1,3 @@
+D:/Documents/LeoC/pruebas2/cmake-build-debug/CMakeFiles/pruebas2.dir
+D:/Documents/LeoC/pruebas2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documents/LeoC/pruebas2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
